@@ -1,0 +1,13 @@
+{  
+  "Name": "DailyPlanDiary",  
+  "Author": "Nightshade07",  
+  "Version": "1.0.0",  
+  "Description": "diary mod",  
+  "UniqueID": "Nightshade.DailyPlanDiary",  
+  "EntryDll": "DailyPlanDiary.dll",  
+  "MinimumApiVersion": "4.0.0",  
+  "UpdateKeys": [ 
+    "Nexus:xxxx",
+    "GitHub:sue7eggplant/DailyPlanDiary-for-SV"
+  ]  
+}
